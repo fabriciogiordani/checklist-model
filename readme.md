@@ -2,6 +2,8 @@
 
 [![NPM](https://nodei.co/npm/checklist-model.png)](https://nodei.co/npm/checklist-model/)
 
+# Adapted by https://gist.github.com/ozba in https://gist.github.com/ozba/752bce7bc1f1308e0cb4
+
 # checklist-model
 AngularJS directive for list of checkboxes
 
